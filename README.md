@@ -10,9 +10,7 @@ Jev is not a chat model. It takes unstructured state plus a **typed question** a
 
 The repository treats all categories equally — each entry lives in exactly one category, chosen by its direct Jev application domain. A dedicated **Related Practices / Discussions** category captures credible public practice signals — X threads, Reddit discussions, and interviews — that describe real Jev usage even when no strong standalone case page exists yet.
 
-> [!WARNING]
-> **A listing is not an endorsement.** This project applies *inclusion* rules only — public, citable, genuinely uses Jev for a typed decision, one-sentence summary. It does **not** review code quality, security, maturity, or whether a project runs at all.
->
+
 
 
 ## Goal of this list
